@@ -14,9 +14,9 @@ void kod(int n)
 
 int main()
 {
-    int n;
+    int f;
     cout << "Ile wyrazow ciagu wypisac: ";
-    cin >> n;
-    kod(n);
+    cin >> f;
+    kod(f);
     return 0;
 }
